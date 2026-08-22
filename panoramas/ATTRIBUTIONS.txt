@@ -1,0 +1,18 @@
+360° tour panoramas — sources & licenses
+=========================================
+
+These equirectangular panoramas are stand-ins for the photo tour's 360° view
+(no per-room panorama field exists in the listing API).
+
+CC0 (public domain, no attribution required) — Poly Haven (polyhaven.com):
+  lythwood_lounge.jpg          "Lythwood Lounge"            — main-floor suite
+  hotel_room.jpg               "Hotel Room"                — master suite
+  relax_inn_seaview_suite.jpg  "Relax Inn Seaview Suite"   — guest bedroom
+
+CC BY-SA 4.0 (attribution + share-alike required):
+  bunk_berths.jpg              "Sovekupe WLAB-2 SJ Nord" by Asbjørn,
+                               via Wikimedia Commons — kids' bunk room.
+                               https://commons.wikimedia.org/wiki/File:Sovekupe_WLAB-2_SJ_Nord.jpg
+                               License: https://creativecommons.org/licenses/by-sa/4.0/
+                               (resized for the prototype; the only CC-licensed
+                               equirectangular found that actually shows bunk beds.)

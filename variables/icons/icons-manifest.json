@@ -1,0 +1,2712 @@
+{
+  "version": "1.0",
+  "generated": "2026-07-29T17:52:22.865Z",
+  "icons": [
+    {
+      "name": "egds-icon-glyph-ac-unit",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-access-time-circle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-access-time",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-accessibility",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-accessible",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-account-circle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-account",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-add-a-photo",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-add-card",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-add-circle-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-add-circle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-add",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-ai",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-base-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-base",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-extra-legroom-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-extra-legroom",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-first-class-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-first-class",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-recline-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airline-seat-recline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-airport-shuttle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-alarm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-all-inclusive",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-allergies",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-analytics",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-anchor",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-apps",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-archive",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-back-ios",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-back",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-downward-ios",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-downward",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-drop-down",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-drop-up",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-forward-ios",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-forward",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-upward-ios",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-arrow-upward",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-article",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-assignment",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-assistant",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-attach-file",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-attractions",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-auto-renew",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-baby-changing-station",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-balcony",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bank",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bathroom",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bathtub",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bbq-grill",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-beach-access",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bed",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-bunk",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-crib",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-double",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-king",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-queen",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-single",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-sofa",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-trundle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bedding-wall",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bonus",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-book",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bookmark-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-bookmark",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-brightness-1-half",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-brightness-1",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-brush",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-build",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-business-center",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-calendar-add",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-calendar-check-out",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-calendar",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-camera-alt",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-car-door",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-carbon-monoxide-detector-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-carbon-monoxide-detector",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-card-giftcard",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-carry-on-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-carry-on",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-casino",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-change-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-change",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-chat-bubble",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-chat",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-check-circle-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-check-circle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-check-in-and-out",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-check-in",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-check-out",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-check",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-checkroom",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-chevron-left",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-chevron-right",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-child-friendly-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-child-friendly",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-child",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-circle-filled",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-circle-outlined",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-cleaning-service",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-cleanliness",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-clear",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-close-ios",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-close",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-closed-caption-disabled",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-closed-caption-off",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-closed-caption",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-cloud-off",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-collapse",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-comment",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-compare",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-computer",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-concierge",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-content-cut",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-cookie",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-copy-content",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-countdown",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-credit-card",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-currency-dollar",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-currency-euro",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-currency-pound",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-curtains",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-data-trends",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-delete",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-dialpad",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-diamond-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-dimension",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions-bike",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions-boat",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions-bus",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions-car",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions-railway",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions-walk",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-directions",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-dishwasher",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-disinfectant",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-distance",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-document",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-download",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-drag-indicator",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-dryer",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-eco",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-email",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-error-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-error",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-ev-station",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-events-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-events",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-expand-less",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-expand-more",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-expand",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-face-mask",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-family-friendly",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fan",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fast-food",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-favorite-button-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-favorite-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-favorite",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fingerprint",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fire-extinguisher-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fire-extinguisher",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fireplace",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fitness-center",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-flag",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-flash-on",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-flight-land",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-flight-takeoff",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-flight",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-free-breakfast",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-free-room-upgrade",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fridge",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-fuel",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-gift",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-globe",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-gloves",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-golf",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-group",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hail",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hand-sanitizer",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-handshake",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-headset-mic",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-headset",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-health-and-beauty",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-heat-unit",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-help-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-help",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hiking",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-history",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-home",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-honeymoon",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hot-spring",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hot-tub",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hourglass-bottom",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hourglass-empty",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-hourglass-top",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-image-search",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-image",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-import-contacts",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-info-outlined",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-info",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-insurance",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-iron",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-kettle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-kids-activities",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-kitchen",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-kitchenette",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-landscape",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-language",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-legal",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lightbulb",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-link",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-list-alt",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-living-room",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lob-activities",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lob-cars",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lob-cruise",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lob-events",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lob-flights",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lob-hotels",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-activity",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-atm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-bar",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-cafe",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-convenience-store",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-dining",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-laundry-service",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-offer",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-parking",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-shopping",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-local-taxi",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-location-city",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lock-open",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-lock",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-log-in",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-log-out",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-loyalty",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-luggage-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-luggage",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-map-2d",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-map-3d",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-map",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-mark-read",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-mark-unread",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-media-output",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-menu",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-mic-off",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-mic",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-mode-edit",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-monetization-on",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-monetization",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-money",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-moon-sleeps",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-more-horiz",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-more-vert",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-multicooker",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-music-note",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-my-location",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-nature",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-navigate",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-no",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-notifications-add",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-notifications-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-notifications-off",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-notifications",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-ondemand-entertainment",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-onekey",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-open-in-browser",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-open-in-new",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-outgoing-mail",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-oven",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-patio",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-pause",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-payments",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-people",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-person-add",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-person-play",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-person",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-personal-bag-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-personal-bag",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-pets-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-pets",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-phishing",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-phone",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-photo-library",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-physical-activity-level",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-place",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-play-arrow",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-playlist-add-confirm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-playlist-add",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-playlist-confirm-circle",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-playlist-remove",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-playlist-return",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-pool",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-porch",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-power",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-price-drop-protection",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-price-transparency",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-print",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-protect",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-query-stats",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-receipt",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-record-voice-over",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-refresh",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-refund-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-refund",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-remove-circle-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-remove",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-replay",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-reply",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-report",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-robot",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-rocket",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-romantic",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-room-service",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-room",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-rss-feed",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-savings",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-scuba-diving",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-search",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-security",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-self-improvement",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-send",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sentiment-1",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sentiment-2",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sentiment-3",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sentiment-4",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sentiment-5",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-settings",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-share-ios",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-share",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-shopping-cart",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-shower",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-ski",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-skillet",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-skip-the-line",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-smartphone",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-smoke-detector-none",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-smoke-detector",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-smoke-free",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-smoking",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-soccer",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-social-distance",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sort-ascending",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sort-descending",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-sort",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-spa",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-speaker",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-speed",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-stadia-controller",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-star-half",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-star-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-star",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-subdirectory-arrow-right",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-swap-horiz",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-swap-vert",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-tablet-mac",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-temperature",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-terrain",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-thumb-down-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-thumb-down",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-thumb-up-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-thumb-up",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-time-check-in",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-time-check-out",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-timelapse",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-timeline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-timer",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-toast",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-today",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-toilet",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-toolbox",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-tour-360",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-train",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-transgender",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-translate",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-transmission",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-trending-down",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-trending-flat",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-trending-up",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-trips",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-trophy",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-tune",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-tv",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-unarchive",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-upload",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-view-grid-large",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-view-grid-small",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-view-list",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-visibility-off",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-visibility",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-volume-off",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-volume-up",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-vpn-key",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-wallet",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-warning-outline",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-warning",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-water-closet",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-water-medium",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-water-park",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-water",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-afternoon",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-cloudy",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-cold",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-intermittent-clouds",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-mostly-cloudy",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-mostly-flurries",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-mostly-showers",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-mostly-snow",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-mostly-thunderstorm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-partly-flurries",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-partly-showers",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-day-partly-thunderstorm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-dreary",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-early-morning",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-evening-intermittent",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-flurries",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-fog",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-freezing-rain",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-hazy-moon",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-hazy-sun",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-hot",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-ice",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-moon",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-morning",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-mostly-moon",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-mostly-sunny",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-mostly-cloudy",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-mostly-flurries",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-mostly-showers",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-mostly-snow",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-mostly-thunderstorms",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-partly-showers",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-night-partly-thunderstorm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-partly-moon",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-partly-sunny",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-rain-snow",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-rain",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-showers",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-sleet",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-snow",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-sun",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-thunderstorm",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-weather-wind",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-wifi",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-window",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-wine",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-work",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-yard",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-zoom-in",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    },
+    {
+      "name": "egds-icon-glyph-zoom-out",
+      "categories": [],
+      "keywords": [],
+      "aliases": []
+    }
+  ]
+}

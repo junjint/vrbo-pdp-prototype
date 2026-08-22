@@ -1,0 +1,164 @@
+{
+  "fonts": {
+    "AlbraSans": {
+      "family": "AlbraSans",
+      "source": "egds",
+      "weights": {
+        "500": {
+          "files": {
+            "otf": "AlbraSans-Medium.otf"
+          },
+          "outputFiles": [
+            "AlbraSans-Medium.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "CentraNo2": {
+      "family": "CentraNo2",
+      "source": "egds",
+      "weights": {
+        "300": {
+          "files": {
+            "otf": "CentraNo2-Light.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-Light.otf"
+          ]
+        },
+        "400": {
+          "files": {
+            "otf": "CentraNo2-Regular.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-Regular.otf"
+          ]
+        },
+        "500": {
+          "files": {
+            "otf": "CentraNo2-Medium.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-Medium.otf"
+          ]
+        },
+        "700": {
+          "files": {
+            "otf": "CentraNo2-Bold.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-Bold.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "CentraNo2-Bold": {
+      "family": "CentraNo2-Bold",
+      "source": "egds",
+      "weights": {
+        "400": {
+          "files": {
+            "otf": "CentraNo2-BoldItalic.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-BoldItalic.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "CentraNo2-Light": {
+      "family": "CentraNo2-Light",
+      "source": "egds",
+      "weights": {
+        "400": {
+          "files": {
+            "otf": "CentraNo2-LightItalic.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-LightItalic.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "CentraNo2-Medium": {
+      "family": "CentraNo2-Medium",
+      "source": "egds",
+      "weights": {
+        "400": {
+          "files": {
+            "otf": "CentraNo2-MediumItalic.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-MediumItalic.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "CentraNo2-Regular": {
+      "family": "CentraNo2-Regular",
+      "source": "egds",
+      "weights": {
+        "400": {
+          "files": {
+            "otf": "CentraNo2-RegularItalic.otf"
+          },
+          "outputFiles": [
+            "CentraNo2-RegularItalic.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "LardentProSlab": {
+      "family": "LardentProSlab",
+      "source": "egds",
+      "weights": {
+        "400": {
+          "files": {
+            "otf": "LardentProSlab-Regular.otf"
+          },
+          "outputFiles": [
+            "LardentProSlab-Regular.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "RecklessXPD": {
+      "family": "RecklessXPD",
+      "source": "egds",
+      "weights": {
+        "400": {
+          "files": {
+            "otf": "RecklessXPD-Regular.otf"
+          },
+          "outputFiles": [
+            "RecklessXPD-Regular.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    },
+    "Recoleta": {
+      "family": "Recoleta",
+      "source": "egds",
+      "weights": {
+        "500": {
+          "files": {
+            "otf": "Recoleta-Medium.otf"
+          },
+          "outputFiles": [
+            "Recoleta-Medium.otf"
+          ]
+        }
+      },
+      "fallback": "system-ui, -apple-system, sans-serif"
+    }
+  },
+  "generatedAt": "2026-07-29T17:52:19.005Z"
+}

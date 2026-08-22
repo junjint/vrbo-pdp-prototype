@@ -1,0 +1,1 @@
+.house-rules-stats{display:grid;grid-template-columns:1fr 1fr;gap:var(--spacing-4x);width:100%}.house-rules-stat{display:flex;flex-direction:column;gap:var(--spacing-6x);padding:var(--spacing-4x)}.house-rules-rules{margin-block-start:var(--spacing-4x)}

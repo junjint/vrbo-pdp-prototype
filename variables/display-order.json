@@ -1,0 +1,7 @@
+{
+  "brands": ["expedia", "hotels", "vrbo", "eg_partner"],
+  "themes": {
+    "color": ["light_1", "dark_1", "bright_1"],
+    "_default": ["standard"]
+  }
+}

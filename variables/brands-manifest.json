@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-07-29T17:52:19.298Z",
+  "brands": [
+    {
+      "name": "eg_partner",
+      "tokenTypes": [
+        "color",
+        "typography",
+        "spacing",
+        "cornerRadius",
+        "shadow"
+      ],
+      "cssPath": "brands/eg_partner.css",
+      "swiftPath": "brands/eg_partner.swift",
+      "kotlinPath": "brands/eg_partner.kt"
+    },
+    {
+      "name": "expedia",
+      "tokenTypes": [
+        "color",
+        "typography",
+        "spacing",
+        "cornerRadius",
+        "shadow"
+      ],
+      "cssPath": "brands/expedia.css",
+      "swiftPath": "brands/expedia.swift",
+      "kotlinPath": "brands/expedia.kt"
+    },
+    {
+      "name": "hotels",
+      "tokenTypes": [
+        "color",
+        "typography",
+        "spacing",
+        "cornerRadius",
+        "shadow"
+      ],
+      "cssPath": "brands/hotels.css",
+      "swiftPath": "brands/hotels.swift",
+      "kotlinPath": "brands/hotels.kt"
+    },
+    {
+      "name": "vrbo",
+      "tokenTypes": [
+        "color",
+        "typography",
+        "spacing",
+        "cornerRadius",
+        "shadow"
+      ],
+      "cssPath": "brands/vrbo.css",
+      "swiftPath": "brands/vrbo.swift",
+      "kotlinPath": "brands/vrbo.kt"
+    }
+  ]
+}
