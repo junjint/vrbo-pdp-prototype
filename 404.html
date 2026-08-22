@@ -1,17 +1,28 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, interactive-widget=resizes-content" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="EGDS Prototype" />
-    <title>react</title>
-    <script type="module" crossorigin src="./assets/index-DqWHgVlc.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-D4BSygfs.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // GitHub Pages SPA fallback
+    // Pages only checks for 404.html at the site root, not in subdirectories.
+    // When a deep link like /my-branch/components hits a 404:
+    // 1. Store the full path in sessionStorage
+    // 2. Redirect to the branch root (first path segment + /)
+    // 3. The app's main.tsx reads sessionStorage and restores the route
+    //
+    // This assumes branch directories are a single path segment (no slashes).
+    // The deploy workflow flattens slashes in branch names to -- for this reason.
+    var segments = window.location.pathname.split('/').filter(Boolean);
+    if (segments.length > 1) {
+      var branch = segments[0];
+      var route = '/' + segments.slice(1).join('/');
+      sessionStorage.setItem('__pk_spa_redirect', route);
+      window.location.replace('/' + branch + '/');
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
 </html>
